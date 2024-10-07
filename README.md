@@ -1,12 +1,19 @@
-<h1 align="center"><b>Hi there, I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <h1 align="center"><b>Hi there, I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%7C+Data+Scientist+%7C;%7C+Data+Engineer+%7C;%7C+Data+Analyst+%7C" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-diego-hernandez-camacho-5176022aa/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%7C+Data+Scientist+%7C;%7C+Data+Engineer+%7C;%7C+Data+Analyst+%7C" />
+</a>
+</div>
+
+<div align="center">
+  <img src="https://imgur.com/eEvKPhf.png">
+</div>
 
 
-<!--
-**JDHernandezCamacho/JDHernandezCamacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
