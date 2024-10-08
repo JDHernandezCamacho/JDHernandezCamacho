@@ -29,7 +29,7 @@
 
 # 💫 About of me 
 - 🔭 I’m currently working on SEP, Secretaría de Sducación Pública
-- 🌱 I´ve learned about of world of data and I love it
+- 🌱 I’ve learned about of world of data and I love it
 - 👯 I’m looking to collaborate on data projects
 - 💬 Ask me about of your project or idea 
 - 📫 How to reach me: Send me a e-mail or whats app
@@ -71,8 +71,6 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-
-
 ## 🌐 “App Telecomunicaciones”	
 <div>
   <p>
@@ -82,7 +80,6 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-
 ## 📽️ "MovieRecomendationSystem"
 <div>
   <p>
@@ -91,7 +88,6 @@ __Check out my GitHub repository:__
     </a>  
   </p>
 </div>
-
 
 ## 📽📞 "Analisis-CallCenter"
 <div>
@@ -103,23 +99,46 @@ __Check out my GitHub repository:__
 </div>
 
 
+<table>
+<tr>
+<th>Proyecto</th>
+<th>Descripción</th>
+<th>Repositorio</th>
+</tr>
+<tr>
+<td><a href="(link unavailable)">BlueTrips</a></td>
+<td></td>
+<td><a href="(link unavailable)">JDHernandezCamacho/BlueTrips</a></td>
+</tr>
+<tr>
+<td><a href="(link unavailable)">App Telecomunicaciones</a></td>
+<td></td>
+<td><a href="(link unavailable)">JDHernandezCamacho/AppTelecomunicaciones</a></td>
+</tr>
+<tr>
+<td><a href="(link unavailable)">MovieRecomendationSystem</a></td>
+<td></td>
+<td><a href="(link unavailable)">JDHernandezCamacho/MovieRecomendationSystem</a></td>
+</tr>
+<tr>
+<td><a href="(link unavailable)">Analisis-CallCenter</a></td>
+<td></td>
+<td><a href="(link unavailable)">JDHernandezCamacho/Analisis-CallCenter</a></td>
+</tr>
+</table>
+
 
 # <h2>👀 My github Stats</h2>
 
-<div>
-  <p align="center">
-  <b><em></em></b> <br/>
-    <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=JDHernandezCamacho" alt="GitHub Stats" />
-    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDHernandezCamacho&layout=compact" alt="GitHub Stats" />
-    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JDHernandezCamacho&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> <br/><br/>
-</div>
-
-
-
-
-
-
-
-
-
-
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JDHernandezCamacho&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JDHernandezCamacho&theme=dark&hide_border=true" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JDHernandezCamacho&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
