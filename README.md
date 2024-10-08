@@ -19,8 +19,7 @@
 - 🌱 I´ve learned about of world of data and I love it
 - 👯 I’m looking to collaborate on data projects
 - 💬 Ask me about of your project or idea 
-- 📫 How to reach me: Send me a e-mail: ing.diego.hdz.13@gmail.com
-  or whats app: +52 231 116 8898
+- 📫 How to reach me: Send me a e-mail or whats app
 - 😄 Pronouns: Say me Diego
 - ⚡ Fun fact: I like the tecnology
 
@@ -43,6 +42,51 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=SQL&logoColor=000000&labelColor=5EECFF&color=5EECFF)
 
+
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My projects
+
+__Check out my GitHub repository:__
+
+
+## 🚕 “BlueTrips”	
+<div>
+  <p>
+    <a href="https://github.com/JDHernandezCamacho/BlueTrips">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDHernandezCamacho&repo=BlueTrips" alt="GitHub Stats" />
+    </a>    
+  </p>
+</div>
+
+
+
+## 🌐 “App Telecomunicaciones”	
+<div>
+  <p>
+    <a href="https://github.com/JDHernandezCamacho/AppTelecomunicaciones">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDHernandezCamacho&repo=AppTelecomunicaciones" alt="GitHub Stats" />
+    </a>    
+  </p>
+</div>
+
+
+## 📽️ "MovieRecomendationSystem"
+<div>
+  <p>
+    <a href="https://github.com/JDHernandezCamacho/MovieRecomendationSystem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDHernandezCamacho&repo=MovieRecomendationSystem" alt="GitHub Stats" />
+    </a>  
+  </p>
+</div>
+
+
+## 📽📞 "Analisis-CallCenter"
+<div>
+  <p>
+    <a href="https://github.com/JDHernandezCamacho/Analisis-CallCenter">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDHernandezCamacho&repo=Analisis-CallCenter" alt="GitHub Stats" />
+    </a>  
+  </p>
+</div>
 
 
 
