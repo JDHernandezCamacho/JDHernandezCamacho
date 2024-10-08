@@ -28,7 +28,7 @@
 
 
 # 💫 About of me 
-- 🔭 I’m currently working on SEP, Secretaría de Sducación Pública
+- 🔭 I’m currently working on SEP, Secretaría de Educación Pública
 - 🌱 I’ve learned about of world of data and I love it
 - 👯 I’m looking to collaborate on data projects
 - 💬 Ask me about of your project or idea 
