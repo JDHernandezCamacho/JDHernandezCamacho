@@ -13,6 +13,19 @@
   <img src="https://imgur.com/eEvKPhf.png">
 </div>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-diego-hernandez-camacho-5176022aa/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JDHernandezCamacho">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+      </div>
+
+</p>
+
 
 # 💫 About of me 
 - 🔭 I’m currently working on SEP, Secretaría de Sducación Pública
@@ -22,6 +35,7 @@
 - 📫 How to reach me: Send me a e-mail or whats app
 - 😄 Pronouns: Say me Diego
 - ⚡ Fun fact: I like the tecnology
+
 
 
 # 💻 Tech Skills
@@ -90,19 +104,22 @@ __Check out my GitHub repository:__
 
 
 
+# <h2>👀 My github Stats</h2>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<div>
+  <p align="center">
+  <b><em></em></b> <br/>
+    <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=JDHernandezCamacho" alt="GitHub Stats" />
+    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDHernandezCamacho&layout=compact" alt="GitHub Stats" />
+    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JDHernandezCamacho&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> <br/><br/>
+</div>
 
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-diego-hernandez-camacho-5176022aa/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JDHernandezCamacho">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      </div>
 
-</p>
+
+
+
+
 
 
 
